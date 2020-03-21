@@ -1,1 +1,1 @@
-<h1>Iniadalah aplikasi heart beet detector</h1>
+<h1>Ini adalah aplikasi heart beet detector</h1>
